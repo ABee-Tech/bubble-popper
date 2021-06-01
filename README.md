@@ -1,4 +1,4 @@
-# bubble-popper
+# Bubble Popper
 ## Vanilla JS Game
 This needs further development.  
 The aim is to develop fish bubble popper game.
